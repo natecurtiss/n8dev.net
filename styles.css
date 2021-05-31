@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@700&display=swap');
 
 body {
-    background-color: #171717;
+    background-color: #d96e95;
 }
 
 #navbar {
@@ -9,6 +9,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
+    background-color: #171717;
 }
 
 .navbar__elements {
@@ -16,6 +17,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     font-family: "Maven Pro", sans-serif;
+    font-size: 2rem;
     color: white;
     text-decoration: none;
     transition: all 0.3s ease 0s;
@@ -24,13 +26,6 @@ body {
 .navbar__elements:hover {
     color: #fe7e7e;
     cursor: pointer;
-}
-
-.navbar__buttons {
-    padding: 9px 25px;
-    background-color: transparent;
-    border: none;
-    border-radius: 50px;
 }
 
 #navbar__links li {

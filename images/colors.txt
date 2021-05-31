@@ -1,7 +1,0 @@
-background - #2d2c28
-gradient (dark to light) -
-    #706292
-    #a6689d
-    #d96e95
-    #fe7e7e
-foreground - #ffffff
