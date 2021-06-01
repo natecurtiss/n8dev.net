@@ -1,3 +1,0 @@
-background - #ffffff
-foreground - #171717
-accent color - #fe7e7e
