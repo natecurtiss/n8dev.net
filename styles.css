@@ -9,7 +9,8 @@ html {
     color: #171717;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    /*text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);*/
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+    scroll-behavior: smooth;
 }
 
 .centered {
@@ -25,6 +26,6 @@ html {
     color: #FE7E7E;
 }
 
-.about__section {
+#about__section {
     font-size: 2rem;
 }
