@@ -24,7 +24,6 @@ html {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    margin-bottom: -20vh;
 }
 
 .row {
@@ -79,15 +78,6 @@ html {
 }
 
 @media only screen and (max-width: 1024px) {
-    .centered {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        margin-bottom: -40vh;
-    }
-
     .hero__header {
         font-size: 12vw;
         font-weight: 400;
